@@ -3,7 +3,7 @@ Contributors: (this should be a list of wordpress.org userid's)
 Donate link: http://www.redwoodcity.jp/entry/default-permalink
 Tags: parmalink,url,default,multi-byte
 Requires at least: 3.9
-Tested up to: 3.9.1,4.1.1
+Tested up to: 3.9.1, 4.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
